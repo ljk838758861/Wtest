@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wtest</string>
+    <string name="title_value">点击我跳转到另一个页面</string>
+    <string name="title_two">这是第二个页面</string>
+</resources>
